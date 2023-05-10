@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02e4e4ef-69fd-4c53-8a01-283b9f55b082" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gpt/CS6804/doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt/CS6804/gpt/dataloader/chrome_extension_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt/CS6804" beforeDir="false" afterPath="$PROJECT_DIR$/gpt/CS6804" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt/CS6804/classified.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt/CS6804/gpt/dataloader/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt/CS6804/gpt/dataloader/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt/CS6804/gpt/dataloader/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt/CS6804/gpt/dataloader/loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt/CS6804/mykey.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gpt/CS6804/mykey.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PaSl2TtTYFNBEFpz72GIrNNn26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/suhanik/Documents/CS6804Final"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e4e4ef-69fd-4c53-8a01-283b9f55b082" name="Changes" comment="" />
+      <created>1683693847727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683693847727</updated>
+    </task>
+    <servers />
+  </component>
+</project>
