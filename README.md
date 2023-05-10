@@ -38,9 +38,9 @@ git clone git@github.com:suhani247/CS6804Final.git
 
 ### Workflow for NoBullyBuddy
 
-![NoBullyBuddy - Chrome Extension](https://github.com/suhani247/CS6804Final/tree/main/artifacts/extension.png "Workflow")
+![NoBullyBuddy - Chrome Extension](https://github.com/suhani247/CS6804Final/blob/main/artifacts/extension.png "Workflow")
 
-![Workflow Diagram for the classifier](https://github.com/suhani247/CS6804Final/tree/main/artifacts/gpt.png "classifier")
+![Workflow Diagram for the classifier](https://github.com/suhani247/CS6804Final/blob/main/artifacts/gpt.png "classifier")
 
 
 ## Feedback
