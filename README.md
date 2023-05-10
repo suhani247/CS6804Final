@@ -5,13 +5,13 @@ This tool and Chrome extension (NoBullyBuddy) allows developers to compare ChatG
 
 ## Pre-requisites
 
-Python3
-Keras
-Tflearn
-Tensorflow
-Xgboost
-Sklearn
-Numpy
+* Python3
+* Keras
+* Tflearn
+* Tensorflow
+* Xgboost
+* Sklearn
+* Numpy
 
 
 ## Getting Started
